@@ -20,7 +20,7 @@ function preload() {
   snow1=loadImage("snow4.webp")
   snow2=loadImage("snow5.webp")
   boy1=loadImage("boy.png")
-  song=loadSound("Winter-Forest-Sounds.wav")
+  //song=loadSound("Winter-Forest-Sounds.wav")
 
 }
 
@@ -54,7 +54,7 @@ if(frameCount%30===0){
   
  //------------------------:: 
 
-song.play()
+//song.play()
 
 //-------------------------::
 
